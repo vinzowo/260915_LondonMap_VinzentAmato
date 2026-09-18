@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Layer_Weaver-Line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 17, "Layer": "Weaver-Line", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPolyline", "Linetype": "AI-Linetype-2", "EntityHandle": "97", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.060483744615991, 51.548044734393009 ], [ -0.060483124376731, 51.555412258896474 ], [ -0.05611763853522, 51.558126167181868 ], [ -0.056117344737676, 51.561615422535368 ] ] } },
+{ "type": "Feature", "properties": { "fid": 18, "Layer": "Weaver-Line", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPolyline", "Linetype": "AI-Linetype-3", "EntityHandle": "99", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.076076332398764, 51.519727337323097 ], [ -0.072334487391753, 51.52205537894524 ], [ -0.066722013678783, 51.522055196140485 ], [ -0.058614682830264, 51.527098878082903 ], [ -0.054249425497954, 51.527098735917185 ], [ -0.054249164344582, 51.53020242498868 ], [ -0.057990617621842, 51.532530171111091 ], [ -0.057989442431357, 51.546493443353107 ], [ -0.063601622346783, 51.54998377381331 ], [ -0.063601426481754, 51.5523103902405 ], [ -0.071719648425211, 51.565094442165481 ] ] } }
+]
+}

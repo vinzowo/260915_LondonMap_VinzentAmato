@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Layer_Waterloo-and-City",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fid": 21, "Layer": "Waterloo-and-City", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbPolyline", "Linetype": null, "EntityHandle": "A2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.111623305014437, 51.504204363805222 ], [ -0.109128741676431, 51.505756933727106 ], [ -0.100053168938108, 51.505775070116115 ], [ -0.092915075409051, 51.505737667149631 ], [ -0.087302161217336, 51.509249494388463 ], [ -0.087301965352307, 51.51157819347965 ] ] } }
+]
+}
